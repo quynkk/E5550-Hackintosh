@@ -8,6 +8,7 @@ E5550 Hackintosh
 - Use OpenCore 0.7.5 from Dortainia
 - All kext are up-to-date (1/11/2021)
 - You need to add your own Wifi/Bluetooth kext and snapshot it via ProperTree or OpenCore Configurator to make it load!
+- I will support Clover later :3
 
 + Screenshot:
 ![image](https://user-images.githubusercontent.com/90502232/139594296-21477585-48f2-402d-8cdc-17f1c9134f40.png)
